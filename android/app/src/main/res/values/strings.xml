@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">AppLockProject</string>
+    <string name="app_name">AppLock</string>
+    <string name="accessibility_service_label">App Lock Protection</string>
+    <string name="accessibility_service_description">This service monitors which app is in the foreground to protect your locked applications with PIN, pattern, or fingerprint authentication.</string>
 </resources>
